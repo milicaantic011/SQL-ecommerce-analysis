@@ -403,15 +403,15 @@ LIMIT 10;
 
 ##  Technical Skills Demonstrated
 
-- ✅ Complex JOINs (INNER, LEFT)
-- ✅ Window Functions (NTILE, LAG, OVER)
-- ✅ CTEs (Common Table Expressions)
-- ✅ Aggregate Functions (SUM, AVG, COUNT)
-- ✅ SQLite Date Functions (STRFTIME, JULIANDAY)
-- ✅ CASE Statements for segmentation
-- ✅ Subqueries
-- ✅ Type casting (CAST)
-- ✅ Business metrics calculation (RFM, CLV, retention rate, growth rate)
+-  Complex JOINs (INNER, LEFT)
+-  Window Functions (NTILE, LAG, OVER)
+-  CTEs (Common Table Expressions)
+-  Aggregate Functions (SUM, AVG, COUNT)
+-  SQLite Date Functions (STRFTIME, JULIANDAY)
+-  CASE Statements for segmentation
+-  Subqueries
+-  Type casting (CAST)
+-  Business metrics calculation (RFM, CLV, retention rate, growth rate)
 
 ---
 
@@ -481,5 +481,5 @@ Then paste and run queries directly.
 ## License
 
 This project is open source and available under the MIT License.
----
+
 
