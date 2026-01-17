@@ -1,6 +1,6 @@
-# 📊 E-Commerce Sales Analysis - SQLite Project
+#  E-Commerce Sales Analysis - SQLite Project
 
-## 📋 Project Overview
+##  Project Overview
 This project demonstrates SQL skills through comprehensive analysis of an e-commerce database using SQLite. It covers data cleaning, exploratory analysis, business metrics calculation, and actionable insights generation.
 
 **Skills Demonstrated:**
@@ -15,7 +15,7 @@ This project demonstrates SQL skills through comprehensive analysis of an e-comm
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - VS Code installed
@@ -30,7 +30,7 @@ This project demonstrates SQL skills through comprehensive analysis of an e-comm
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ```sql
 -- Create Customers table
@@ -76,7 +76,7 @@ CREATE TABLE order_items (
 
 ---
 
-## 📥 Sample Data
+##  Sample Data
 
 ```sql
 -- Insert sample customers
@@ -128,7 +128,7 @@ INSERT INTO order_items VALUES
 
 ---
 
-## 🔍 Analysis Questions & SQL Solutions
+##  Analysis Questions & SQL Solutions
 
 ### 1. Revenue Analysis
 
@@ -383,7 +383,7 @@ LIMIT 10;
 
 ---
 
-## 📈 Key Insights & Business Recommendations
+## Key Insights & Business Recommendations
 
 ### Insights from Analysis:
 1. **Revenue Trends:** Electronics category drives 70%+ of total revenue
@@ -401,7 +401,7 @@ LIMIT 10;
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 
 - ✅ Complex JOINs (INNER, LEFT)
 - ✅ Window Functions (NTILE, LAG, OVER)
@@ -415,7 +415,7 @@ LIMIT 10;
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sql-ecommerce-analysis/
@@ -432,7 +432,7 @@ sql-ecommerce-analysis/
 
 ---
 
-## 🎯 How to Run in VS Code
+##  How to Run in VS Code
 
 ### Method 1: Using SQLite Extension
 1. Install "SQLite" extension by alexcvzz
@@ -460,7 +460,7 @@ Then paste and run queries directly.
 
 ---
 
-## 📊 Sample Query Results
+##  Sample Query Results
 
 ### Revenue by Month
 | Month   | Orders | Revenue   | Avg Order Value |
@@ -478,20 +478,8 @@ Then paste and run queries directly.
 
 ---
 
-## 🔗 Connect With Me
-
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** [your.email@example.com]
-
----
-
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
-
 ---
 
-## 🙏 Acknowledgments
-
-This project was created as a portfolio piece to demonstrate SQL analytics skills for junior data analyst positions. The data is fictional and used for educational purposes only.
